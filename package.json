@@ -1,0 +1,12 @@
+{
+    "name": "employee_tracker_app",
+    "version": "1.0.0",
+    "description": "Employee Tracker Application",
+    "dependencies": {
+      "mysql": "^2.18.1",
+      "inquirer": "^8.1.2"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
