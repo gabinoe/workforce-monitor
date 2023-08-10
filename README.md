@@ -1,7 +1,7 @@
 # workforce-monitor
-challenge 12
+employee tracker
 ## technologies used
-- HTML
+- Javascript
 - CSS
 ## description
 monitor employee active and non active etc
